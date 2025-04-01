@@ -1,12 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-<<<<<<< HEAD
-    "C:\\Users\\navee\\Desktop\\FY Project\\Crowdfunding-Dapp\\contracts\\Crowdfunding.sol": {
-=======
-    "D:\\SJEC\\Studies\\7th Sem\\FY Project\\CrowdMint\\contracts\\Crowdfunding.sol": {
->>>>>>> 751a387 (frontend added)
-      "lastModificationDate": 1735017124099,
+    "C:\\Users\\navee\\Desktop\\CrowdMint\\contracts\\Crowdfunding.sol": {
+      "lastModificationDate": 1743487719793,
       "contentHash": "3b6d3dadcdaaee09508bcc6c7c171644",
       "sourceName": "contracts/Crowdfunding.sol",
       "solcConfig": {
@@ -43,12 +39,8 @@
         "Crowdfunding"
       ]
     },
-<<<<<<< HEAD
-    "C:\\Users\\navee\\Desktop\\FY Project\\Crowdfunding-Dapp\\contracts\\Project.sol": {
-=======
-    "D:\\SJEC\\Studies\\7th Sem\\FY Project\\CrowdMint\\contracts\\Project.sol": {
->>>>>>> 751a387 (frontend added)
-      "lastModificationDate": 1735017124099,
+    "C:\\Users\\navee\\Desktop\\CrowdMint\\contracts\\Project.sol": {
+      "lastModificationDate": 1743487719793,
       "contentHash": "5bbbfa36dd078955a263c832d1017260",
       "sourceName": "contracts/Project.sol",
       "solcConfig": {
@@ -84,12 +76,8 @@
         "Project"
       ]
     },
-<<<<<<< HEAD
-    "C:\\Users\\navee\\Desktop\\FY Project\\Crowdfunding-Dapp\\node_modules\\hardhat\\console.sol": {
-=======
-    "D:\\SJEC\\Studies\\7th Sem\\FY Project\\CrowdMint\\node_modules\\hardhat\\console.sol": {
->>>>>>> 751a387 (frontend added)
-      "lastModificationDate": 1735020791503,
+    "C:\\Users\\navee\\Desktop\\CrowdMint\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1743500392927,
       "contentHash": "681c532e816169606d13a5fe8b475074",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {

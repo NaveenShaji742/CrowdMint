@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <meta name="description" content="crowd funding dapp" />
+          <meta name="description" content="CrowdMint" />
           <link rel="icon" href="/favicon.ico" />
 
           <meta charSet="utf-8" />
@@ -16,11 +16,11 @@ class MyDocument extends Document {
           <meta property="og:type" content="website" />
 
 
-          <meta property="og:site_name" content="CrowdFunding dapp" />
+          <meta property="og:site_name" content="CrowdMint" />
         </Head>
         <body>
           <Main />
-          <script src="https://kit.fontawesome.com/e6ef8c1f6f.js" crossOrigin="anonymous"></script>
+          <script src="https://kit.fontawesome.com/e6ef8c1f6f.js" crossorigin="anonymous"></script>
           <NextScript />
         </body>
       </Html>

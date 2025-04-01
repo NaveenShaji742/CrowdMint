@@ -33,7 +33,7 @@ const FundRiserForm = () => {
         setTargetedContributionAmount("")
         setMinimumContributionAmount("")
         setDeadline("")
-        toastSuccess("Fundrising started 🎉");
+        toastSuccess("Fund rising started 🎉");
       }
 
        const onError = (error) =>{
@@ -55,7 +55,7 @@ const FundRiserForm = () => {
 
   return (
     <>
-        <h1 className="font-sans font-bold text-xl">Start Fundraising for Free</h1>
+        <h1 className="font-sans font-bold text-xl">Start Your Fundraising For Free </h1>
         <form onSubmit={(e)=>riseFund(e)}>
             <div className="form-control my-1">
                 <label className="text-sm text-gray-700">Title :</label>
@@ -78,7 +78,7 @@ const FundRiserForm = () => {
                 <input type="date" placeholder="Type here" className="form-control-input border-neutral-400 focus:ring-neutral-200" value={deadline} onChange={(e)=>setDeadline(e.target.value)} required/>
             </div>
 
-            <button className="p-2 w-full bg-[#F56D91] text-white rounded-md hover:bg-[#d15677]" disabled={btnLoading} >{btnLoading?"Loading...":"Rise Funding"}</button>
+            <button className="p-2 w-full bg-[#F56D91] text-white rounded-md hover:bg-[#d15677]" disabled={btnLoading} >{btnLoading?"Loading...":"Rise fund"}</button>
         </form>
     </>
   )

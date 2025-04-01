@@ -71,9 +71,9 @@ const WithdrawRequestCard = ({props,withdrawReq, setWithdrawReq,contractAddress}
     <h1 className="font-sans text-xl text-gray font-semibold">{props.desc}</h1>
     <div className="flex flex-col lg:flex-row">
       <div className="inner-card my-6 w-full lg:w-2/5">
-        <p className="text-md font-bold font-sans text-gray">Requested amount</p>
+        <p className="text-md font-bold font-sans text-gray">Requested Amount</p>
         <p className="text-sm font-bold font-sans text-gray-600 ">{props.amount} ETH </p>
-        <p className="text-md font-bold font-sans text-gray">Total vote</p>
+        <p className="text-md font-bold font-sans text-gray">Total Vote</p>
         <p className="text-sm font-bold font-sans text-gray-600 ">{props.totalVote}</p>
       </div>
       <div className="inner-card my-6 w-full lg:w-3/5">

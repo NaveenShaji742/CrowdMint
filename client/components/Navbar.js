@@ -24,12 +24,12 @@ const Navbar = () => {
             </div>
             <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex-shrink-0 flex items-center">
-                      <h4 className='font-mono text-xl text-greay font-bold hidden lg:block'>CROWDMINT</h4>
+                      <h4 className='font-mono text-xl text-greay font-bold hidden lg:block'>CrowdMint</h4>
                 </div>
                 <div className="hidden sm:block sm:ml-6">
                 <div className="flex space-x-4">
                     <Link href="/dashboard"  ><span className={`${router.pathname === "/dashboard"?"bg-[#F7C984]":""} text-greay px-3 py-2 rounded-md text-sm font-medium hover:cursor-pointer hover:bg-[#F7C984] hover:text-greay`}>Dashboard</span></Link>
-                    <Link href="/my-contributions"><span className={`${router.pathname === "/my-contributions"?"bg-[#F7C984]":""} text-greay px-3 py-2 rounded-md text-sm font-medium hover:cursor-pointer hover:bg-[#F7C984] hover:text-greay`}>My contribution</span></Link>
+                    <Link href="/my-contributions"><span className={`${router.pathname === "/my-contributions"?"bg-[#F7C984]":""} text-greay px-3 py-2 rounded-md text-sm font-medium hover:cursor-pointer hover:bg-[#F7C984] hover:text-greay`}>My Contribution</span></Link>
                 </div>
                 </div>
             </div>
@@ -42,7 +42,7 @@ const Navbar = () => {
                 <div className="ml-3 relative">
                 <div>
                     <button type="button" className="bg-[#F7C984] flex text-sm rounded-md focus:outline-none focus:ring-0 focus:ring-offset-0 focus:ring-white" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
-                    <span className="sr-only">Open user menu</span>
+                    <span className="sr-only">Open User Menu</span>
                     <div className="h-8 w-8 rounded-full" ></div>
                     </button>
                 </div>
