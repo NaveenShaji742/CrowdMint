@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashfx/Crowdfunding-Dapp.git"
+  },
+  "author": "hashfx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hashfx/Crowdfunding-Dapp/issues"
+  },
+  "homepage": "https://github.com/hashfx/Crowdfunding-Dapp#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.8.3"
+  }
+}
+=======
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.8.3"
+  }
+}
+>>>>>>> 751a387 (frontend added)
