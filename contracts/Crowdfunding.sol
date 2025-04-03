@@ -62,7 +62,7 @@ event ContributionReceived(
 
  }
 
- // @dev Get projects list
+// @dev Get projects list
 // @return array
 
 function returnAllProjects() external view returns(Project[] memory){

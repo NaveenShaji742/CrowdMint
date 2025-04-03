@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
     "moment": "^2.29.2",
-    "next": "11.1.2",
+    "next": "^11.1.2",
     "next-redux-wrapper": "^7.0.5",
     "nprogress": "^0.2.0",
     "react": "17.0.2",
