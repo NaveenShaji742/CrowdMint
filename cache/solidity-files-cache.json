@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\navee\\Desktop\\CrowdMint-A-Blockchain-Based-Crowdfunding-Platform\\contracts\\Crowdfunding.sol": {
-      "lastModificationDate": 1743681781915,
-      "contentHash": "3b6d3dadcdaaee09508bcc6c7c171644",
+      "lastModificationDate": 1743746132019,
+      "contentHash": "2271a82d57da5e6a78f9299c4dc75c3f",
       "sourceName": "contracts/Crowdfunding.sol",
       "solcConfig": {
         "version": "0.8.4",
